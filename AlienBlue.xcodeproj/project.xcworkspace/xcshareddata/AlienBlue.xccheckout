@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CB1B9A6A-906D-4617-AF5A-92FFF8071E97</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AlienBlue</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>37CFC6AD-2C04-498A-8B4A-21107B351AAA</key>
+		<string>ssh://github.com/viktorbenei/AlienBlue.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AlienBlue.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>37CFC6AD-2C04-498A-8B4A-21107B351AAA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/viktorbenei/AlienBlue.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>37CFC6AD-2C04-498A-8B4A-21107B351AAA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>37CFC6AD-2C04-498A-8B4A-21107B351AAA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AlienBlue</string>
+		</dict>
+	</array>
+</dict>
+</plist>
